@@ -1,7 +1,7 @@
 ﻿/***********************************************************************************************
  * Übungsnr:        05                                     
  * Programmname:    Statistik                                  
- * Autor:           Michael Bucek                               
+ * Autor:           karlof002                               
  * ------------------------------------------------ 
  * Kurzbeschreibung:      
  * Der Benutzer ist aufzufordern, über die Tastatur mehrere positive Ganzzahlen getrennt
