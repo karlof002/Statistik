@@ -1,18 +1,3 @@
-﻿/***********************************************************************************************
- * Übungsnr:        05                                     
- * Programmname:    Statistik                                  
- * Autor:           karlof002                               
- * ------------------------------------------------ 
- * Kurzbeschreibung:      
- * Der Benutzer ist aufzufordern, über die Tastatur mehrere positive Ganzzahlen getrennt
- * durch die Eingabetaste einzugeben.
- * Mit Eingabe der Zahl 0 beendet der Benutzer die Eingabe.
- * Die Eingabeaufforderung erfolgt in der Form: “Zahl Nr. X: “,
- * wobei statt X natürlich die aktuelle Nummer der Zahl (beginnend bei 1) angeführt werden soll.
- * Das Programm gibt die Summe, den Mittelwert und die größte Zahl der eingegebenen Zahlen aus.
- * ************************************************
-*/
-
 using System;
 
 namespace Statistics
